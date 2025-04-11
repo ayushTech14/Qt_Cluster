@@ -1,0 +1,8 @@
+    export PATH=/bin:/usr/bin:/usr/sbin:/sbin:/scripts
+    export LD_LIBRARY_PATH=/lib64/dll/pci:/lib/:/usr/lib:/lib/dll  
+    export PCI_HW_MODULE=/lib64/pci_hw-qc-msm8996-sa8195.so
+    export PCI_CAP_MODULE_DIR=/lib64/dll/pci
+    export PCI_SLOG_MODULE=pci_slog2.so
+    export PCI_DEBUG_MODULE=pci_debug2.so
+    export PCI_BASE_VERBOSITY=4
+    umask 000

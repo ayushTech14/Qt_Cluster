@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Qt_assets/04.png</file>
+        <file>Qt_assets/75%.png</file>
+        <file>Qt_assets/84.png</file>
+        <file>Qt_assets/440 km.png</file>
+        <file>Qt_assets/10035.34km.png</file>
+        <file>Qt_assets/10035.34km (1).png</file>
+        <file>Qt_assets/Car 2.png</file>
+        <file>Qt_assets/charge.png</file>
+        <file>Qt_assets/D.png</file>
+        <file>Qt_assets/doors.png</file>
+        <file>Qt_assets/Ellipse 42.png</file>
+        <file>Qt_assets/Ellipse 43.png</file>
+        <file>Qt_assets/Ellipse 46.png</file>
+        <file>Qt_assets/engine.png</file>
+        <file>Qt_assets/Frame 30.png</file>
+        <file>Qt_assets/Group.png</file>
+        <file>Qt_assets/Group 291.png</file>
+        <file>Qt_assets/Group 293.png</file>
+        <file>Qt_assets/Group 299.png</file>
+        <file>Qt_assets/Group (3).png</file>
+        <file>Qt_assets/highbeam.png</file>
+        <file>Qt_assets/highbeamglow.png</file>
+        <file>Qt_assets/km.png</file>
+        <file>Qt_assets/lowbeam.png</file>
+        <file>Qt_assets/lowbeamglow.png</file>
+        <file>Qt_assets/N.png</file>
+        <file>Qt_assets/P.png</file>
+        <file>Qt_assets/R.png</file>
+        <file>Qt_assets/Rectangle 160.png</file>
+        <file>Qt_assets/Rectangle 161.png</file>
+        <file>Qt_assets/seatbelt.png</file>
+        <file>Qt_assets/steering.png</file>
+        <file>Qt_assets/turnleft.png</file>
+        <file>Qt_assets/Turn Right After 365m On NH48.png</file>
+        <file>Qt_assets/Vector.png</file>
+        <file>Qt_assets/Vector 134.png</file>
+        <file>Qt_assets/Vector 135.png</file>
+        <file>Qt_assets/Vector 136.png</file>
+        <file>Qt_assets/Vector 136 (2).png</file>
+        <file>Qt_assets/Vector 137.png</file>
+        <file>Qt_assets/Vector 137 (1).png</file>
+        <file>Qt_assets/Vector 139.png</file>
+        <file>Qt_assets/Vector 140.png</file>
+        <file>Qt_assets/Vector 141.png</file>
+        <file>Qt_assets/Vector (1).png</file>
+        <file>Qt_assets/Vector (2).png</file>
+        <file>Qt_assets/Vector (3).png</file>
+        <file>Qt_assets/VectorBottom.png</file>
+        <file>Qt_assets/Vector left (copy).png</file>
+        <file>Qt_assets/Vector right (copy).png</file>
+        <file>Qt_assets/wiper.png</file>
+        <file>Qt_assets/x1000 RPM.png</file>
+    </qresource>
+</RCC>
