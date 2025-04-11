@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 15.0.0, 2025-04-11T12:47:45. -->
+<!-- Written by QtCreator 15.0.0, 2025-04-11T17:58:31. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -8,7 +8,7 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
-  <value type="qlonglong">2</value>
+  <value type="qlonglong">1</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.EditorSettings</variable>
@@ -844,6 +844,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QdbLinuxRunConfiguration:</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">appQt_Cluster</value>
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
+    <value type="QString" key="QdbRunConfig.LocalExecutable">/home/lab/QtProjects/Qt_Cluster/build/Boot2Qt_6_8_2_Raspberry_Pi_Development_Boards_64bit-Debug/appQt_Cluster</value>
     <value type="QString" key="QdbRunConfig.RemoteExecutable">device://{dcddba7f-4d4d-4e85-a5b0-5b63d2fa56a9}</value>
     <value type="int" key="RemoteLinux.EnvironmentAspect.Version">1</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
